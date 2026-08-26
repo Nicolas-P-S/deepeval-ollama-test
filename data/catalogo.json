@@ -1,0 +1,177 @@
+[
+  {
+    "produto": "Hidra Plus Sérum",
+    "preco": "R$ 89,90",
+    "ingrediente": "Ácido hialurônico",
+    "tipo_pele": "Seca",
+    "necessidade": "Hidratação"
+  },
+  {
+    "produto": "Matte Control Gel",
+    "preco": "R$ 59,90",
+    "ingrediente": "Niacinamida",
+    "tipo_pele": "Oleosa",
+    "necessidade": "Controle de oleosidade"
+  },
+  {
+    "produto": "Equilibra Creme",
+    "preco": "R$ 74,90",
+    "ingrediente": "Ceramidas",
+    "tipo_pele": "Mista",
+    "necessidade": "Equilíbrio"
+  },
+  {
+    "produto": "Sensitiv Calm Loção",
+    "preco": "R$ 69,90",
+    "ingrediente": "Centelha asiática",
+    "tipo_pele": "Sensível",
+    "necessidade": "Redução de vermelhidão"
+  },
+  {
+    "produto": "Anti-Sinais Noturno",
+    "preco": "R$ 129,90",
+    "ingrediente": "Retinol",
+    "tipo_pele": "Madura",
+    "necessidade": "Anti-idade"
+  },
+  {
+    "produto": "Pure Clean Gel de Limpeza",
+    "preco": "R$ 39,90",
+    "ingrediente": "Ácido salicílico",
+    "tipo_pele": "Oleosa",
+    "necessidade": "Limpeza profunda"
+  },
+  {
+    "produto": "Barreira Forte Loção",
+    "preco": "R$ 84,90",
+    "ingrediente": "Ceramidas",
+    "tipo_pele": "Seca",
+    "necessidade": "Redução de vermelhidão"
+  },
+  {
+    "produto": "Toque de Seda Hidratante",
+    "preco": "R$ 64,90",
+    "ingrediente": "Glicerina",
+    "tipo_pele": "Mista",
+    "necessidade": "Hidratação"
+  },
+  {
+    "produto": "Renove Clareador Facial",
+    "preco": "R$ 99,90",
+    "ingrediente": "Vitamina C",
+    "tipo_pele": "Madura",
+    "necessidade": "Clareamento de manchas"
+  },
+  {
+    "produto": "Sun Shield FPS 60",
+    "preco": "R$ 54,90",
+    "ingrediente": "Óxido de zinco",
+    "tipo_pele": "Sensível",
+    "necessidade": "Proteção solar"
+  },
+  {
+    "produto": "Oil Free Balance Tônico",
+    "preco": "R$ 44,90",
+    "ingrediente": "Ácido glicólico",
+    "tipo_pele": "Oleosa",
+    "necessidade": "Equilíbrio"
+  },
+  {
+    "produto": "Nutri Repair Noturno",
+    "preco": "R$ 94,90",
+    "ingrediente": "Peptídeos",
+    "tipo_pele": "Seca",
+    "necessidade": "Anti-idade"
+  },
+  {
+    "produto": "Acne Free Gel de Tratamento",
+    "preco": "R$ 49,90",
+    "ingrediente": "Peróxido de benzoíla",
+    "tipo_pele": "Oleosa",
+    "necessidade": "Controle de acne"
+  },
+  {
+    "produto": "Verde Detox Máscara de Argila",
+    "preco": "R$ 34,90",
+    "ingrediente": "Argila verde",
+    "tipo_pele": "Oleosa",
+    "necessidade": "Limpeza profunda"
+  },
+  {
+    "produto": "Bruma Refrescante Facial",
+    "preco": "R$ 29,90",
+    "ingrediente": "Água termal",
+    "tipo_pele": "Sensível",
+    "necessidade": "Calmante / anti-irritação"
+  },
+  {
+    "produto": "Colágeno Ativo Creme",
+    "preco": "R$ 109,90",
+    "ingrediente": "Colágeno hidrolisado",
+    "tipo_pele": "Madura",
+    "necessidade": "Firmeza da pele"
+  },
+  {
+    "produto": "Vita C Booster Sérum",
+    "preco": "R$ 84,90",
+    "ingrediente": "Vitamina C",
+    "tipo_pele": "Mista",
+    "necessidade": "Ação antioxidante"
+  },
+  {
+    "produto": "Suave Toque Loção Calmante",
+    "preco": "R$ 59,90",
+    "ingrediente": "Aveia coloidal",
+    "tipo_pele": "Sensível",
+    "necessidade": "Redução de vermelhidão"
+  },
+  {
+    "produto": "Reflexo Jovem Ampola",
+    "preco": "R$ 119,90",
+    "ingrediente": "Ácido hialurônico",
+    "tipo_pele": "Madura",
+    "necessidade": "Hidratação"
+  },
+  {
+    "produto": "Zero Poros Tônico Adstringente",
+    "preco": "R$ 42,90",
+    "ingrediente": "Ácido glicólico",
+    "tipo_pele": "Oleosa",
+    "necessidade": "Controle de oleosidade"
+  },
+  {
+    "produto": "Camomila Pura Loção de Limpeza",
+    "preco": "R$ 37,90",
+    "ingrediente": "Extrato de camomila",
+    "tipo_pele": "Sensível",
+    "necessidade": "Limpeza profunda"
+  },
+  {
+    "produto": "Óleo Precioso de Rosa Mosqueta",
+    "preco": "R$ 67,90",
+    "ingrediente": "Óleo de rosa mosqueta",
+    "tipo_pele": "Seca",
+    "necessidade": "Renovação celular"
+  },
+  {
+    "produto": "Esqualano Puro Sérum",
+    "preco": "R$ 79,90",
+    "ingrediente": "Esqualano vegetal",
+    "tipo_pele": "Mista",
+    "necessidade": "Hidratação"
+  },
+  {
+    "produto": "Kojic Bright Sérum Clareador",
+    "preco": "R$ 94,90",
+    "ingrediente": "Ácido kójico",
+    "tipo_pele": "Mista",
+    "necessidade": "Clareamento de manchas"
+  },
+  {
+    "produto": "D-Pantenol Reparador Intensivo",
+    "preco": "R$ 54,90",
+    "ingrediente": "D-Pantenol",
+    "tipo_pele": "Sensível",
+    "necessidade": "Reparação da barreira cutânea"
+  }
+]
