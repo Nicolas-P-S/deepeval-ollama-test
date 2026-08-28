@@ -8,7 +8,7 @@ model = "qwen2.5:7b"
 with open(dir/"data"/"catalogo.json", "r", encoding="utf-8") as file:
     catalogo = json.load(file)
 
-with open(dir/"data"/"prompt_ruim.txt", "r", encoding="utf-8") as file:
+with open(dir/"data"/"prompt_final.txt", "r", encoding="utf-8") as file:
     prompt = file.read()
 
 def perguntar_chat(input: str, model = model):

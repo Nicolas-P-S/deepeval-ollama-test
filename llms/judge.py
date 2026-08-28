@@ -1,15 +1,15 @@
 import os
 from dotenv import load_dotenv
-from deepeval.models import OpenAIModel
+from deepeval.models import GeminiModel
 
 load_dotenv()
 
 def create_judge():
-    api_key = os.getenv("GROQ_API_KEY")
+    api_key = os.getenv("GEMINI_API_KEY")
 
-    return OpenAIModel(
-        model="openai/gpt-oss-120b",
+    return GeminiModel(
+        #model="gemini-3.6-flash",
+        model="gemini-3.5-flash-lite",
         api_key=api_key,
-        base_url="https://api.groq.com/openai/v1",
-        temperature=0
     )
+

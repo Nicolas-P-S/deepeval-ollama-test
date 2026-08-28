@@ -1,14 +1,11 @@
+import json
+import pytest
 from deepeval import assert_test
-from deepeval.metrics import AnswerRelevancyMetric, FaithfulnessMetric
 from deepeval.test_case import LLMTestCase
-from llms.judge import create_judge
 from tests.testCases import test_cases
 from llms.metrics import faithfulness, answer_relevancy, geval
 from llms.chatbot import perguntar_chat
-import pytest
-import json
 
-judge = create_judge()
 
 def preparar_contexto(contexto):
     if isinstance(contexto, list):
@@ -29,7 +26,6 @@ def preparar_contexto(contexto):
 # TESTES
 
 @pytest.mark.parametrize("case", test_cases, ids=[case["id"] for case in test_cases])
-
 def test_chatbot(case):
     quest = case["input"]
     res = perguntar_chat(quest)
